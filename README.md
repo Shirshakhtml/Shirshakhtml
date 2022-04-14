@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Shirshak
 - 👀 I’m interested in Ethical hacking and Cybersecurity
-- 🌱 I’m currently learning offensive pentesting
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email:unpredictableroy@gmail.com
+- 🌱 I’m currently specialised in Network and Web Penetration Testing.
+
 
 <!---
 Shirshakhtml/Shirshakhtml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
