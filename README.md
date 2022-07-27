@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Security Scripting**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shirshak-roy-644a971b8/](https://www.linkedin.com/in/shirshak-roy-644a971b8/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/shirshak-roy-644a971b8/](https://www.linkedin.com/in/shirshak-roy-644a971b8/)](https://www.linkedin.com/in/shirshak-roy-644a971b8/)
 
 - ⚡ Fun fact **I am a Pharmacy Student**
 
