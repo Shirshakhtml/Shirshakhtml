@@ -14,15 +14,15 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirshakhtml&show_icons=true&locale=en&layout=compact" alt="shirshakhtml" /></p>-->
 
-<p align="center">
+<p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4nk0St0rM&layout=compact&count_private=true&theme=gruvbox" />
 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirshakhtml&show_icons=true&locale=en" alt="shirshakhtml" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirshakhtml&show_icons=true&locale=en" alt="shirshakhtml" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirshakhtml&" alt="shirshakhtml" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirshakhtml&" alt="shirshakhtml" /></p>
 
 <h2> 🤳 Connect with me:</h2>
 
