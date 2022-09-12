@@ -1,5 +1,9 @@
 <h1>Hi, I'm Shirshak! <br/><a href="https://github.com/Shirshakhtml">Purple Teamer</a>, <a href="https://www.linkedin.com/in/shirshak-roy-644a971b8/">Cybersecurity Student</a> and DFIR Geek</a></h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=D142F7&background=FFFFFF00&width=435&lines=S%23I4S%238K)](https://git.io/typing-svg)
+<br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=D142F7&background=FFFFFF00&width=435&lines=h4ckInG+Is+lOve)](https://git.io/typing-svg)
+<br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=D142F7&background=FFFFFF00&width=435&lines=H4T3+tOXIcItY)](https://git.io/typing-svg)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Keylogger for Windows</b>
