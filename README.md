@@ -28,6 +28,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirshakhtml&" alt="shirshakhtml" /></p>
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Shirshakhtml)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
