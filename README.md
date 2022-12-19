@@ -12,6 +12,8 @@
   - [OSINT Tool](https://github.com/Shirshakhtml/Osint-tool)
 - <b>Reconnaissance</b>
   - [Recontool](https://github.com/Shirshakhtml/Recontool)
+- <b>Clickjacking Tester</b>
+  - [Clickjacker]([https://github.com/Shirshakhtml/Recontool](https://github.com/Shirshakhtml/clickjacking-tester))
 
 <a href="https://www.abuseipdb.com/user/92817" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
 	<img src="https://www.abuseipdb.com/contributor/92817.svg" alt="AbuseIPDB Contributor Badge" style="width: 433px;">
