@@ -28,11 +28,11 @@
 
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirshakhtml&layout=compact&count_private=true&theme=gruvbox" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirshakhtml&layout=compact&count_private=true&theme=gruvbox" />
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirshakhtml&show_icons=true&locale=en" alt="shirshakhtml" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirshakhtml&show_icons=true&locale=en" alt="shirshakhtml" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirshakhtml&" alt="shirshakhtml" /></p>
 
