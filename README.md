@@ -16,6 +16,8 @@
   - [Clickjacker](https://github.com/Shirshakhtml/clickjacking-tester)
 - <b>Strong and Secure Password generator</b>
   - [Passgen](https://github.com/Shirshakhtml/passgen)
+- <b>Javascript Analyser</b>
+  - [JSAnalyser](https://github.com/Shirshakhtml/JSAnalyser)
 
 <a href="https://www.abuseipdb.com/user/92817" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
 	<img src="https://www.abuseipdb.com/contributor/92817.svg" alt="AbuseIPDB Contributor Badge" style="width: 433px;">
