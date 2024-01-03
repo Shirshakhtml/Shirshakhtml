@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shirshak! <br/><a href="https://github.com/Shirshakhtml">Purple Teamer</a>, <a href="https://www.linkedin.com/in/shirshak-pentester">Cybersecurity Entusiast</a> and DFIR Geek</a></h1>
+<h1>Hi, I'm Shirshak! <br/><a href="https://github.com/Shirshakhtml">Purple Teamer</a>, <a href="https://www.linkedin.com/in/shirshak-pentester">Cybersecurity Enthusiast</a> and DFIR Geek</a></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=47DCF7&random=false&width=435&lines=Secure+Code+is+more+than+a+goal;+It's+a+journey;Let's+embark+on+it+together)](https://git.io/typing-svg)
 
