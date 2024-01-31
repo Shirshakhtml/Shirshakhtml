@@ -9,7 +9,7 @@
   - [SMBEnum](https://github.com/Shirshakhtml/letschecksmb)
 - <b>Osint Tool</b>
   - [OSINT Tool](https://github.com/Shirshakhtml/Osint-tool)
-- <b>Reconnaissance</b>
+- <b>Basic Web Recon Tool</b>
   - [Recontool](https://github.com/Shirshakhtml/Recontool)
 - <b>Clickjacking Tester</b>
   - [Clickjacker](https://github.com/Shirshakhtml/clickjacking-tester)
