@@ -5,8 +5,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Keylogger for Windows</b>
-  - [Keylogger](https://github.com/Shirshakhtml/Keylogger)
+- <b>SMB Enumeration Tool</b>
+  - [SMBEnum](https://github.com/Shirshakhtml/letschecksmb)
 - <b>Osint Tool</b>
   - [OSINT Tool](https://github.com/Shirshakhtml/Osint-tool)
 - <b>Reconnaissance</b>
