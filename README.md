@@ -7,8 +7,8 @@
 
 - <b>SMB Enumeration Tool</b>
   - [SMBEnum](https://github.com/Shirshakhtml/letschecksmb)
-- <b>Osint Tool</b>
-  - [OSINT Tool](https://github.com/Shirshakhtml/Osint-tool)
+- <b>All-In-One Subdomain Enumeration Tool</b>
+  - [SubDom](https://github.com/Shirshakhtml/Subdom)
 - <b>Basic Web Recon Tool</b>
   - [Recontool](https://github.com/Shirshakhtml/Recontool)
 - <b>Clickjacking Tester</b>
@@ -17,6 +17,8 @@
   - [Passgen](https://github.com/Shirshakhtml/passgen)
 - <b>Javascript Analyser</b>
   - [JSAnalyser](https://github.com/Shirshakhtml/JSAnalyser)
+- <b>Osint Tool</b>
+  - [OSINT Tool](https://github.com/Shirshakhtml/Osint-tool)
 
 <a href="https://www.abuseipdb.com/user/92817" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
 	<img src="https://www.abuseipdb.com/contributor/92817.svg" alt="AbuseIPDB Contributor Badge" style="width: 433px;">
