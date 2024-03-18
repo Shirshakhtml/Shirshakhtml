@@ -5,8 +5,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Python Based Projects</b>
-  - [Python Based Cybersecurity Projects](https://github.com/Shirshakhtml/Python-Projects)
+- <b>Python Projects</b>
+  - [Cybersecurity Projects](https://github.com/Shirshakhtml/Python-Projects)
 - <b>SMB Enumeration Tool</b>
   - [SMBEnum](https://github.com/Shirshakhtml/letschecksmb)
 - <b>All-In-One Subdomain Enumeration Tool</b>
