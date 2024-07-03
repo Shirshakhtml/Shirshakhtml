@@ -46,13 +46,10 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Shirshakhtml)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Star History
 
-[linkedin]: https://www.linkedin.com/in/shirshak-pentester/
-
-
+[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=Date)](https://star-history.com/#star-history/star-history&Date)
 
 <!-- <br><br>Here are some ideas to get you started:
 
