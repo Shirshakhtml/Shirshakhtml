@@ -11,7 +11,7 @@
 
 ### 🔗 Connect With Me
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shirshak-pentester)
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]([#add-your-twitter-link-here)](https://x.com/Shirsha98901922)
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Shirsha98901922)
 <br/><br/><br/>
 ---
 
