@@ -1,74 +1,110 @@
-<!-- Hero banner with your typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=47DCF7&random=false&width=435&lines=Secure+Code+is+more+than+a+goal;+It's+a+journey;Let's+embark+on+it+together" alt="Typing SVG" />
+<!--  -->
+<!-- SYSTEM INIT... -->
+<!--  -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:21262D&height=200&section=header&text=Shirshak%20Roy&fontColor=58A6FF&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20Engineer%20%7C%20Penetration%20Tester&descAlignY=60&descSize=18" width="100%"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Shirshakhtml">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=System+Compromised...;Just+kidding.;Red+Team+Operations;Security+Research+and+Tooling;Securing+systems+by+breaking+them." alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-# Hi, I'm Shirshak Roy! 👋
-### Offensive Security Engineer | CRTE · CRTP · PNPT 
-> Penetration Tester and Security Researcher. Securing systems and fortifying defenses.
+<br>
 
-### 🔗 Connect With Me
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shirshak-pentester)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#add-your-twitter-link-here)
-<br/><br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/shirshak-pentester"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="#add-your-twitter-link-here"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://tryhackme.com/p/BoomBaam"><img src="https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+</div>
 
----
+<br>
 
-### 🎯 Currently
-- 🔭 Working on: **Developing custom offensive security tools**
-- 🌱 Learning: **Advanced Active Directory exploitation & Cloud Pentesting**
-- 📝 Writing about: **CTF writeups and security research**
+<div align="center">
+  <h3>🏆 Certifications</h3>
+  <img src="https://img.shields.io/badge/CRTE-Certified-red?style=for-the-badge" alt="CRTE">
+  <img src="https://img.shields.io/badge/CRTP-Certified-red?style=for-the-badge" alt="CRTP">
+  <img src="https://img.shields.io/badge/PNPT-Certified-blue?style=for-the-badge" alt="PNPT">
+</div>
 
-### 🏆 Certifications & Achievements
-<!-- You should upload local images of your CRTE/CRTP/PNPT badges to your repo and link them here -->
-![CRTE](https://img.shields.io/badge/Certified-CRTE-red?style=for-the-badge)
-![CRTP](https://img.shields.io/badge/Certified-CRTP-red?style=for-the-badge)
-![PNPT](https://img.shields.io/badge/Certified-PNPT-blue?style=for-the-badge)
-<br/><br/>
-<img src="https://tryhackme-badges.s3.amazonaws.com/BoomBaam.png" alt="TryHackMe Badge" />
-<br/>
-<a href="https://www.abuseipdb.com/user/92817">
-	<img src="https://www.abuseipdb.com/contributor/92817.svg" alt="AbuseIPDB Contributor Badge" style="width: 300px;">
-</a>
+<br>
 
----
+## 🎯 Strategic Operations
 
-### 🛠️ Arsenal — Featured Tools
-| Tool | Description | Language |
-|------|-------------|----------|
-| [**SubDom**](https://github.com/Shirshakhtml/Subdom) | All-in-one subdomain enumeration script | Shell |
-| [**SMBEnum**](https://github.com/Shirshakhtml/letschecksmb) | SMB enumeration and assessment tool | Python |
-| [**JSAnalyser**](https://github.com/Shirshakhtml/JSAnalyser) | JavaScript security analysis | Python |
-| [**Clickjacker**](https://github.com/Shirshakhtml/clickjacking-tester) | Clickjacking vulnerability tester | Python |
-| [**Passgen**](https://github.com/Shirshakhtml/passgen) | Strong and Secure password generator | Python | 
-| [**Recontool**](https://github.com/Shirshakhtml/Recontool) | Basic Web Recon Tool | Shell |
-| [**OSINT Tool**](https://github.com/Shirshakhtml/Osint-tool) | OSINT gathering utilities | Python |
+<details open>
+  <summary><b>Active Research & Development</b></summary>
+  <br>
+  <ul>
+    <li>🔭 <b>Developing</b> automated reconnaissance tools and payload generators.</li>
+    <li>🌱 <b>Learning</b> advanced Active Directory exploitation and Cloud Infrastructure Pentesting.</li>
+    <li>📝 <b>Writing</b> detailed CTF writeups and in-depth security research.</li>
+  </ul>
+</details>
 
----
+<br>
 
-### 💻 Languages and Tools
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-</p>
+## 🛠️ Offensive Toolkit
 
----
+<details open>
+  <summary><b>Open Source Projects</b></summary>
+  <br>
+  
+  **[SubDom](https://github.com/Shirshakhtml/Subdom)**
+  > Automated subdomain enumeration script. (Shell)
+  
+  **[SMBEnum](https://github.com/Shirshakhtml/letschecksmb)**
+  > High-speed SMB enumeration and vulnerability scanner. (Python)
+  
+  **[JSAnalyser](https://github.com/Shirshakhtml/JSAnalyser)**
+  > Static security analysis tool for JavaScript files. (Python)
+  
+  **[Clickjacker](https://github.com/Shirshakhtml/clickjacking-tester)**
+  > Automated clickjacking vulnerability detection. (Python)
+  
+  **[Passgen](https://github.com/Shirshakhtml/passgen)**
+  > Cryptographically secure password generation tool. (Python)
+  
+  **[Recontool](https://github.com/Shirshakhtml/Recontool)**
+  > Foundational web reconnaissance framework. (Shell)
+</details>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shirshakhtml&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirshakhtml&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirshakhtml&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<br>
+
+## 💻 Technical Infrastructure
+
+<details>
+  <summary><b>Core Languages & Frameworks</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </div>
+</details>
+
+<br>
+
+## 📊 Telemetry
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shirshakhtml&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shirshakhtml&theme=tokyo-night&hide_border=true&bg_color=1A1B27" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.abuseipdb.com/user/92817">
+	  <img src="https://www.abuseipdb.com/contributor/92817.svg" alt="AbuseIPDB Contributor Badge" width="250">
+  </a>
+</div>
