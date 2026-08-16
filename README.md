@@ -98,12 +98,6 @@
 <br>
 
 <div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shirshakhtml&theme=tokyo-night&hide_border=true&bg_color=1A1B27">
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://www.abuseipdb.com/user/92817">
 	  <img src="https://www.abuseipdb.com/contributor/92817.svg" alt="AbuseIPDB Contributor Badge" width="250">
   </a>
