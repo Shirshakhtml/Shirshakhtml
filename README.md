@@ -10,9 +10,10 @@
 > Penetration Tester and Security Researcher. Securing systems and fortifying defenses.
 
 ### 🔗 Connect With Me
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shirshak-pentester)
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Shirsha98901922)
-<br/><br/><br/>
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shirshak-pentester)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](#add-your-twitter-link-here)
+<br/><br/>
+
 ---
 
 ### 🎯 Currently
@@ -29,7 +30,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/BoomBaam.png" alt="TryHackMe Badge" />
 <br/>
 <a href="https://www.abuseipdb.com/user/92817">
-	<img src="https://www.abuseipdb.com/contributor/92817.svg" alt="AbuseIPDB Contributor Badge" style="width: 300px; background-color: white; padding: 5px; border-radius: 5px;">
+	<img src="https://www.abuseipdb.com/contributor/92817.svg" alt="AbuseIPDB Contributor Badge" style="width: 300px;">
 </a>
 
 ---
@@ -69,5 +70,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirshakhtml&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shirshakhtml&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirshakhtml&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
