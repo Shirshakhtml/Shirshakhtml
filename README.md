@@ -3,12 +3,14 @@
 <!--  -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:21262D&height=200&section=header&text=Shirshak%20Roy&fontColor=58A6FF&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20Engineer%20%7C%20Penetration%20Tester&descAlignY=60&descSize=18" width="100%"/>
+  <img alt="Header Banner Dark" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:21262D&height=200&section=header&text=Shirshak%20Roy&fontColor=58A6FF&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20Engineer%20%7C%20Penetration%20Tester&descAlignY=60&descSize=18#gh-dark-mode-only" width="100%">
+  <img alt="Header Banner Light" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:f6f8fa&height=200&section=header&text=Shirshak%20Roy&fontColor=0969DA&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20Engineer%20%7C%20Penetration%20Tester&descAlignY=60&descSize=18#gh-light-mode-only" width="100%">
 </div>
 
 <div align="center">
   <a href="https://github.com/Shirshakhtml">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=System+Compromised...;Just+kidding.;Red+Team+Operations;Security+Research+and+Tooling;Securing+systems+by+breaking+them." alt="Typing SVG" />
+    <img alt="Typing SVG Dark" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=System+Compromised...;Just+kidding.;Red+Team+Operations;Security+Research+and+Tooling;Securing+systems+by+breaking+them.#gh-dark-mode-only">
+    <img alt="Typing SVG Light" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=600&lines=System+Compromised...;Just+kidding.;Red+Team+Operations;Security+Research+and+Tooling;Securing+systems+by+breaking+them.#gh-light-mode-only">
   </a>
 </div>
 
@@ -92,13 +94,15 @@
 ## 📊 Telemetry
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shirshakhtml&theme=tokyonight" alt="Profile Details" />
+  <img alt="Profile Details Dark" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shirshakhtml&theme=tokyonight#gh-dark-mode-only">
+  <img alt="Profile Details Light" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shirshakhtml&theme=github#gh-light-mode-only">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shirshakhtml&theme=tokyo-night&hide_border=true&bg_color=1A1B27" alt="Activity Graph" />
+  <img alt="Activity Graph Dark" src="https://github-readme-activity-graph.vercel.app/graph?username=Shirshakhtml&theme=tokyo-night&hide_border=true&bg_color=1A1B27#gh-dark-mode-only">
+  <img alt="Activity Graph Light" src="https://github-readme-activity-graph.vercel.app/graph?username=Shirshakhtml&theme=github&hide_border=true#gh-light-mode-only">
 </div>
 
 <br>
